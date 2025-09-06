@@ -1,0 +1,5 @@
+{
+  "name": "音频静音修剪器",
+  "description": "一个在线工具，可以自动缩短或删除音频文件中的静音部分，使其更简洁、更易于收听。",
+  "requestFramePermissions": []
+}
